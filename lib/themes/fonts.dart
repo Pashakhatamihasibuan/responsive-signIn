@@ -26,7 +26,7 @@ TextStyle regularTextStyle = GoogleFonts.poppins(
 );
 
 // * Light Text
-TextStyle lightTextStyle = GoogleFonts.poppins(
+TextStyle lightTextStyle = GoogleFonts.montserrat(
   color: Colors.black,
   fontWeight: FontWeight.w300,
 );
