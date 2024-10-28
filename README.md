@@ -1,16 +1,21 @@
-# responsive_signin
-
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Slicing UI dari Figma kedalam Flutter dengan responsive
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Design - Dekstop 
+<img width="322" alt="Design - Dekstop" src="https://github.com/Pashakhatamihasibuan/responsive-signIn/blob/main/figma/Desktop%20-%201440.png">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Design - Tablet 
+<img width="322" alt="Design - Sign In V2" src="https://github.com/Pashakhatamihasibuan/responsive-signIn/blob/main/figma/iPad%20Pro%2011_%20-%201.png">
+
+### Design - Mobile 
+<img width="322" alt="Design - Sign In V2" src="https://github.com/Pashakhatamihasibuan/responsive-signIn/blob/main/figma/iPhone%2013%20%26%2014%20-%201.png">
+
+### Full Design
+<img width="322" alt="Design - Sign In V2" src="https://github.com/Pashakhatamihasibuan/responsive-signIn/blob/main/figma/InsightIQ.png">
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pashakhatamihsb/)
