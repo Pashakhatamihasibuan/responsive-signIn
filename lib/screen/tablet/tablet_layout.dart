@@ -285,43 +285,30 @@ class TabletLayout extends StatelessWidget {
                 ],
               ),
             ),
-            Padding(
-              padding: EdgeInsets.only(
-                top: 219,
-                left: 480,
-                right: 39,
-              ),
-              child: Expanded(
-                child: Text(
-                  "insightIQ.com intellectual property\nthe country for six years"
-                      .toUpperCase(),
-                  style: regularTextOpacityStyle,
-                  textAlign: TextAlign.right,
-                ),
+            Positioned(
+              top: 219,
+              right: 39,
+              child: Text(
+                "insightIQ.com intellectual property\nthe country for six years"
+                    .toUpperCase(),
+                style: regularTextOpacityStyle,
+                textAlign: TextAlign.right,
               ),
             ),
-            Padding(
-              padding: EdgeInsets.only(
-                top: 190,
-                left: 700,
-                right: 39,
-              ),
+            Positioned(
+              top: 190,
+              right: 39,
               child: SvgPicture.asset(
                 "icons/line-tablet.svg",
               ),
             ),
-            Padding(
-              padding: EdgeInsets.only(
-                top: 125,
-                left: 560,
-                right: 39,
-              ),
-              child: Expanded(
-                child: Text(
-                  "Tranding platform\nEnsure transaction security",
-                  style: regularTextOpacityStyle,
-                  textAlign: TextAlign.right,
-                ),
+            Positioned(
+              top: 125,
+              right: 39,
+              child: Text(
+                "Tranding platform\nEnsure transaction security",
+                style: regularTextOpacityStyle,
+                textAlign: TextAlign.right,
               ),
             ),
             Padding(
