@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:responsive_signin/main.dart';
 import 'package:responsive_signin/themes/colors.dart';
-
 import '../../themes/fonts.dart';
 
 class DesktopLayout extends StatelessWidget {
@@ -449,7 +447,7 @@ class DesktopLayout extends StatelessWidget {
                         )
                       ],
                     ),
-                  )
+                  ),
                 ],
               ),
             ),
